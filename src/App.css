@@ -1,0 +1,44 @@
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #445760;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.form label {
+  color: azure;
+}
+
+.form .input {
+  margin-top: 10px;
+}
+
+.ant-radio-group,
+.ant-picker {
+  margin-left: 10px;
+}
+
+.form p {
+  color: #f84b36;
+  font-size: 0.75em;
+}
+
+
+
+
+
+
+
+
+
+
+
