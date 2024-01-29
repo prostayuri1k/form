@@ -1,8 +1,14 @@
 .App {
   height: 100vh;
+}
+.link_div {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.form_div {
+  margin-top: 10%;
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .form {

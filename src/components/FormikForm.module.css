@@ -1,0 +1,40 @@
+.field {
+    margin-bottom: 15px;
+}
+
+.field_div {
+    display: flex;
+    justify-content: space-between;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.errorMessage{
+    color: #f84b36;
+    font-size: 0.75em;
+    margin-top: 5px;
+    text-align: right;
+    max-width: 400px;
+}
+
+button {
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button:hover {
+    border: 1px solid #fff;
+    color: #fff;
+    background-color: #445760;
+    margin: 0;
+    cursor: pointer;
+}
